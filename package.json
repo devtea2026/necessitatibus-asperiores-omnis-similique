@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/necessitatibus-asperiores-omnis-similique",
-  "version": "2.6.44",
+  "version": "2.6.45",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -754,5 +754,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/necessitatibus-asperiores-omnis-similique/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
